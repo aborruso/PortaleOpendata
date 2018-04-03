@@ -17,3 +17,8 @@ Raccogleremo qui anche proposte su caratteristiche nuove, integrazioni, modifich
 
 Quando ci scrivi, **aggiungi per favore** sempre i dettagli sul **browser** utilizzato e sul **sistema operativo**, e fai in modo di darci tutte quelle indicazioni che **ci consentano di replicare** quanto ci hai segnalato. <br>Ciò che non sarà replicabile, non potrà essere preso in considerazione.
 
+Abbiamo predisposto un modello, che puoi usare come guida (non è un obbligo, soltanto un supporto)
+
+![immagine](https://user-images.githubusercontent.com/36098889/38262140-a8a31552-376c-11e8-90f1-94dc946b8e48.png)
+
+**Grazie** a chi parteciperà a questo **lavoro** di revisione **collaborativo** e **pubblico**. Per noi è una novità e sarà oneroso, ma ci sembra possa essere un'opportunità per tutti.
