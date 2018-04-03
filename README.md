@@ -1,11 +1,10 @@
 # Portale Open Data del Comune di Palermo
 
-A dicembre del 2017, durante una riunione del "Team Open Data" del Comune di **Palermo**, è stato lanciato **il nuovo portale dei dati aperti del Comune**
-Questo spazio è stato creato per raccogliere feedback sul nuovo [**portale sui dati aperti**](https://opendata.comune.palermo.it) del Comune di Palermo.
-
-Una delle novità è proprio l'URL che adesso è [https://opendata.comune.palermo.it/](https://opendata.comune.palermo.it/).
+A dicembre del 2017, durante una riunione del "Team Open Data" del Comune di **Palermo**, è stato lanciato **il nuovo portale dei dati aperti del Comune**.
 
 Questo spazio è stato creato per **raccogliere segnalazioni** da i vari **utenti di questo sito**.
+
+Una delle novità è proprio l'URL che adesso è [https://opendata.comune.palermo.it/](https://opendata.comune.palermo.it/).
 
 ## Come partecipare
 
