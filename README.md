@@ -19,6 +19,6 @@ Quando ci scrivi, **aggiungi per favore** sempre i dettagli sul **browser** util
 
 Abbiamo predisposto un modello, che puoi usare come guida (non è un obbligo, soltanto un supporto)
 
-![immagine](https://user-images.githubusercontent.com/36098889/38262140-a8a31552-376c-11e8-90f1-94dc946b8e48.png)
+[![immagine](https://user-images.githubusercontent.com/36098889/38262140-a8a31552-376c-11e8-90f1-94dc946b8e48.png)](https://github.com/ComuneDiPalermo/PortaleOpendata/issues/new)
 
 **Grazie** a chi parteciperà a questo **lavoro** di revisione **collaborativo** e **pubblico**. Per noi è una novità e sarà oneroso, ma ci sembra possa essere un'opportunità per tutti.
